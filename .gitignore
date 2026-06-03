@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Salidas locales / datos personales
+no_te_siguen.txt
+*.txt
+!requirements.txt
+
+# Perfil Chrome de automatización (sesión)
+# Se crea en %LOCALAPPDATA%\Ordino\ — no va en el repo
+
+# IDE
+.vscode/
